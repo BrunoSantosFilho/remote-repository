@@ -5,3 +5,5 @@ Esse projeto verve de base para eu conseguir desenvolver habilidades pessoais no
 ## Plataforma de estudos 📖
 
 [Digital Innovation One](https://www.dio.me/en)
+
+Teste de inserção de texto no arquivo README pelo próprio GitHub
